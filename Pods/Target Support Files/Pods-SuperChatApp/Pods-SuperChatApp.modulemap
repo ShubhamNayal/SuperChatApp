@@ -1,0 +1,6 @@
+framework module Pods_SuperChatApp {
+  umbrella header "Pods-SuperChatApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
